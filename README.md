@@ -11,7 +11,6 @@ This project is a basic calculator implemented in Julia, designed to be easy to 
 ## Features
 
 - **Basic Operations:** Addition, subtraction, multiplication, and division.
-- **Additional Features:** Additional functionalities can be implemented as needed.
 
 ## Prerequisites
 
