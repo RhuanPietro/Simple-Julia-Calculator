@@ -1,4 +1,4 @@
-# Simple-Julia-Calculator
+# Simple Julia Calculator
 
 Welcome to Simple-Julia-Calculator, a simple calculator built with Julia.
 
